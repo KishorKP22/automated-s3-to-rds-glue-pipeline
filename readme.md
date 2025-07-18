@@ -297,7 +297,7 @@ This pipeline is **packaged as a Dockerized Python application**, allowing you t
 ## 👨‍💻 Author
 
 **Kishor Borse**  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/kishor-borse)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/kishorborse/)
 
 ---
 
